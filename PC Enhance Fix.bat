@@ -8,6 +8,7 @@ echo ==================================================================
 echo                  PC Gaming Optimization Script
 echo ==================================================================
 echo This script will apply optimizations for your gaming setup.
+echo Assisted in development from a Chatbot.
 pause
 
 :: Step 1: Set Power Plan to High Performance
