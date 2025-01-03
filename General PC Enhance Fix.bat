@@ -7,7 +7,8 @@ setlocal enabledelayedexpansion
 echo ==================================================================
 echo             Advanced PC Gaming Optimization Script v2.2
 echo ==================================================================
-echo This script applies comprehensive optimizations for gaming.
+echo This script applies comprehensive optimizations for gaming. 
+echo Assisted in development from a Chatbot.
 echo Please ensure you have a backup before proceeding.
 echo.
 echo IMPORTANT: This script must be run as Administrator.
