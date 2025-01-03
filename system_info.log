@@ -1,0 +1,50 @@
+
+Host Name:                 JIMMYSPC
+OS Name:                   Microsoft Windows 11 Home
+OS Version:                10.0.22631 N/A Build 22631
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          jimmymcguigan21@gmail.com
+Registered Organization:   N/A
+Product ID:                00325-96654-32906-AAOEM
+Original Install Date:     12/5/2023, 7:50:39 PM
+System Boot Time:          12/27/2024, 7:16:27 AM
+System Manufacturer:       ASUSTeK COMPUTER INC.
+System Model:              VivoBook_ASUSLaptop X512DA_X512DA
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: AMD64 Family 23 Model 24 Stepping 1 AuthenticAMD ~2300 Mhz
+BIOS Version:              American Megatrends Inc. X512DA.316, 2/2/2021
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:     18,379 MB
+Available Physical Memory: 9,020 MB
+Virtual Memory: Max Size:  19,531 MB
+Virtual Memory: Available: 9,197 MB
+Virtual Memory: In Use:    10,334 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\JIMMYSPC
+Hotfix(s):                 5 Hotfix(s) Installed.
+                           [01]: KB5045935
+                           [02]: KB5027397
+                           [03]: KB5033055
+                           [04]: KB5048685
+                           [05]: KB5046729
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: Qualcomm Atheros QCA9377 Wireless Network Adapter
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     172.16.224.1
+                                 IP address(es)
+                                 [01]: 172.16.227.195
+                                 [02]: fe80::7386:e9c4:9a93:eb18
+                           [02]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
