@@ -1,0 +1,207 @@
+==================================  0-Fr_19-47.txt
+   GAMING SYSTEM ANALYSIS REPORT     0-Fr_19-47.txt
+==================================  0-Fr_19-47.txt
+Generated on: Fri 01/03/2025 at 19:47:18.36  0-Fr_19-47.txt
+  0-Fr_19-47.txt
+### CRITICAL GAMING COMPONENTS ###  0-Fr_19-47.txt
+==================================  0-Fr_19-47.txt
+[GPU DETAILS]  0-Fr_19-47.txt
+---------------  0-Fr_19-47.txt
+  0-Fr_19-47.txt
+[CPU DETAILS]  0-Fr_19-47.txt
+---------------  0-Fr_19-47.txt
+  0-Fr_19-47.txt
+[MEMORY DETAILS]  0-Fr_19-47.txt
+-----------------  0-Fr_19-47.txt
+  0-Fr_19-47.txt
+[STORAGE PERFORMANCE]  0-Fr_19-47.txt
+---------------------  0-Fr_19-47.txt
+  0-Fr_19-47.txt
+### GAMING SERVICES STATUS ###  0-Fr_19-47.txt
+=============================  0-Fr_19-47.txt
+[GAMING SERVICES]  0-Fr_19-47.txt
+
+SERVICE_NAME: steam client service 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: EpicOnlineServices 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: XboxNetApiSvc 
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: XblAuthManager 
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+SERVICE_NAME: XboxGipSvc 
+        TYPE               : 20  WIN32_SHARE_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+  0-Fr_19-47.txt
+### DIRECTX DIAGNOSTIC ###  0-Fr_19-47.txt
+=========================  0-Fr_19-47.txt
+dxdiag_temp.txt:          DirectX Version: DirectX 12
+dxdiag_temp.txt: DirectX Database Version: 1.6.4
+dxdiag_temp.txt:   Auto Super Res Version: Unknown
+dxdiag_temp.txt:           DxDiag Version: 10.00.26100.2454 64bit Unicode
+dxdiag_temp.txt:DirectX Debug Levels
+dxdiag_temp.txt: Driver File Version: 10.00.26100.1150 (English)
+dxdiag_temp.txt:      Driver Version: 10.0.26100.1
+dxdiag_temp.txt:         DDI Version: 12
+dxdiag_temp.txt: Driver File Version: 31.00.0101.2134 (English)
+dxdiag_temp.txt:      Driver Version: 31.0.101.2134
+dxdiag_temp.txt:         DDI Version: 12
+dxdiag_temp.txt:          Driver Version: Unknown
+dxdiag_temp.txt:          Driver Version: Unknown
+dxdiag_temp.txt:         Driver Version: 6.0.8703.1 (English)
+dxdiag_temp.txt:         Driver Version: 6.0.8703.1 (English)
+dxdiag_temp.txt:         Driver Version: 10.0.26100.2454 (English)
+dxdiag_temp.txt:         Driver Version: 6.2.9200.16547 (English)
+dxdiag_temp.txt:          DriverVersion: 6.2.9200.16516
+dxdiag_temp.txt:             MEPVersion: n/a
+dxdiag_temp.txt:        DMFTVersionInfo: n/a
+dxdiag_temp.txt:          DriverVersion: 10.0.26100.1
+dxdiag_temp.txt:             MEPVersion: n/a
+dxdiag_temp.txt:        DMFTVersionInfo: n/a
+dxdiag_temp.txt:DirectVobSub (auto-loading version),0x00800002,2,1,vsfilter.dll,3.02.0000.0810
+dxdiag_temp.txt:Media Foundation File Versions
+dxdiag_temp.txt:  <transform friendly name>, <transform CLSID>, <flags>, [<merit>, ]<file name>, <file version>
+dxdiag_temp.txt:                   Memory: 32768MB RAM
+dxdiag_temp.txt:      Available OS Memory: 32630MB RAM
+dxdiag_temp.txt:      Display Tab 1: Your PC is using the Microsoft Basic Display Adapter. For the best experience, get the latest drivers from Windows Update or from your hardware manufacturer's website. For more information search for 'Microsoft Basic Display Adapter' 
+dxdiag_temp.txt:      Display Tab 2: No problems found.
+dxdiag_temp.txt:Display Devices
+dxdiag_temp.txt:           Card name: Microsoft Basic Display Adapter
+dxdiag_temp.txt:        Manufacturer: (Standard display types)
+dxdiag_temp.txt:         Device Type: Display-Only Device (POST)
+dxdiag_temp.txt:      Display Memory: 16314 MB
+dxdiag_temp.txt:    Dedicated Memory: 0 MB
+dxdiag_temp.txt:       Shared Memory: 16314 MB
+dxdiag_temp.txt:    Display Topology: Internal
+dxdiag_temp.txt: Display Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709
+dxdiag_temp.txt:   Display Luminance: Min Luminance = 0.000000, Max Luminance = 0.000000, MaxFullFrameLuminance = 0.000000
+dxdiag_temp.txt:Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
+dxdiag_temp.txt:      Using DDisplay: No
+dxdiag_temp.txt:   Active Color Mode: DISPLAYCONFIG_ADVANCED_COLOR_MODE_SDR
+dxdiag_temp.txt:         Driver Name: c:\windows\system32\driverstore\filerepository\basicdisplay.inf_amd64_a0afd1c1603bc477\basicdisplay.sys
+dxdiag_temp.txt:         Displayable: Not Supported 
+dxdiag_temp.txt:  Driver Strong Name: display.inf:10809047d4324726:MSBDA:10.0.26100.1:PCI\CC_0300
+dxdiag_temp.txt:      Display Memory: 16442 MB
+dxdiag_temp.txt:    Dedicated Memory: 128 MB
+dxdiag_temp.txt:       Shared Memory: 16314 MB
+dxdiag_temp.txt:    Display Topology: Unknown
+dxdiag_temp.txt: Display Color Space: Unknown
+dxdiag_temp.txt:   Display Luminance: Unknown
+dxdiag_temp.txt:         Displayable: Not Supported 
+dxdiag_temp.txt:              HW Memory: 0
+dxdiag_temp.txt:              HW Memory: 0
+dxdiag_temp.txt:     Name: Microsoft Basic Display Adapter
+  0-Fr_19-47.txt
+### POWER SETTINGS ###  0-Fr_19-47.txt
+====================  0-Fr_19-47.txt
+  0-Fr_19-47.txt
+### NETWORK GAMING PERFORMANCE ###  0-Fr_19-47.txt
+=================================  0-Fr_19-47.txt
+[PING TEST TO GAMING SERVERS]  0-Fr_19-47.txt
+  0-Fr_19-47.txt
+### USB GAMING PERIPHERALS ###  0-Fr_19-47.txt
+============================  0-Fr_19-47.txt
+  0-Fr_19-47.txt
+### AUDIO DEVICES ###  0-Fr_19-47.txt
+===================  0-Fr_19-47.txt
+  0-Fr_19-47.txt
+### WINDOWS GAMING FEATURES ###  0-Fr_19-47.txt
+=============================  0-Fr_19-47.txt
+  0-Fr_19-47.txt
+### ACTIVE GAMING PROCESSES ###  0-Fr_19-47.txt
+=============================  0-Fr_19-47.txt
+  0-Fr_19-47.txt
+### NETWORK ADAPTER CONFIGURATION ###  0-Fr_19-47.txt
+===================================  0-Fr_19-47.txt
+
+Error: unrecognized or incomplete command line.
+
+USAGE:
+    ipconfig [/allcompartments] [/? | /all |
+                                 /renew [adapter] | /release [adapter] |
+                                 /renew6 [adapter] | /release6 [adapter] |
+                                 /flushdns | /displaydns | /registerdns |
+                                 /showclassid adapter |
+                                 /setclassid adapter [classid] |
+                                 /showclassid6 adapter |
+                                 /setclassid6 adapter [classid] ]
+
+where
+    adapter             Connection name
+                       (wildcard characters * and ? allowed, see examples)
+
+    Options:
+       /?               Display this help message
+       /all             Display full configuration information.
+       /release         Release the IPv4 address for the specified adapter.
+       /release6        Release the IPv6 address for the specified adapter.
+       /renew           Renew the IPv4 address for the specified adapter.
+       /renew6          Renew the IPv6 address for the specified adapter.
+       /flushdns        Purges the DNS Resolver cache.
+       /registerdns     Refreshes all DHCP leases and re-registers DNS names
+       /displaydns      Display the contents of the DNS Resolver Cache.
+       /showclassid     Displays all the dhcp class IDs allowed for adapter.
+       /setclassid      Modifies the dhcp class id.
+       /showclassid6    Displays all the IPv6 DHCP class IDs allowed for adapter.
+       /setclassid6     Modifies the IPv6 DHCP class id.
+
+
+The default is to display only the IP address, subnet mask and
+default gateway for each adapter bound to TCP/IP.
+
+For Release and Renew, if no adapter name is specified, then the IP address
+leases for all adapters bound to TCP/IP will be released or renewed.
+
+For Setclassid and Setclassid6, if no ClassId is specified, then the ClassId is removed.
+
+Examples:
+    > ipconfig                       ... Show information
+    > ipconfig /all                  ... Show detailed information
+    > ipconfig /renew                ... renew all adapters
+    > ipconfig /renew EL*            ... renew any connection that has its
+                                         name starting with EL
+    > ipconfig /release *Con*        ... release all matching connections,
+                                         eg. "Wired Ethernet Connection 1" or
+                                             "Wired Ethernet Connection 2"
+    > ipconfig /allcompartments      ... Show information about all
+                                         compartments
+    > ipconfig /allcompartments /all ... Show detailed information about all
+                                         compartments
+There is no wireless interface on the system.
+    Hosted network status  : Not available
+
+  0-Fr_19-47.txt
+### GAMING PERFORMANCE SETTINGS ###  0-Fr_19-47.txt
+=================================  0-Fr_19-47.txt
+  0-Fr_19-47.txt
+### DISPLAY SETTINGS ###  0-Fr_19-47.txt
+======================  0-Fr_19-47.txt
+  0-Fr_19-47.txt

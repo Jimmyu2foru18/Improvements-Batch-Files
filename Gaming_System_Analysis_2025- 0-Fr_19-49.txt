@@ -1,0 +1,25 @@
+===================================== 
+     GAMING SYSTEM ANALYSIS REPORT     
+===================================== 
+Generated: Fri 01/03/2025 19:49:59.94               
+ 
+=== SYSTEM INFORMATION === 
+OS Name:                       Microsoft Windows 11 Education
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+System Manufacturer:           Gigabyte Technology Co., Ltd.
+System Model:                  Z390 AORUS ELITE
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+BIOS Version:                  American Megatrends Inc. F9, 10/15/2019
+Total Physical Memory:         32,630 MB
+Available Physical Memory:     23,443 MB
+Virtual Memory: Max Size:      39,286 MB
+Virtual Memory: Available:     25,828 MB
+Virtual Memory: In Use:        13,458 MB
+ 
+=== CPU INFORMATION === 
+CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz 
+Cores: 8 
